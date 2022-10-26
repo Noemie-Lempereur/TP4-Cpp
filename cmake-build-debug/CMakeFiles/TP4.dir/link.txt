@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TP4.dir/main.cpp.o CMakeFiles/TP4.dir/PGM.cpp.o CMakeFiles/TP4.dir/PPM.cpp.o  -o TP4 
