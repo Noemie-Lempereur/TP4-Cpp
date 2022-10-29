@@ -1,3 +1,0 @@
-/mnt/c/Users/lempe/Desktop/Debian/TP_Algo/CIR2/TP4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lempe/Desktop/Debian/TP_Algo/CIR2/TP4/cmake-build-debug/CMakeFiles/TP4.dir
-/mnt/c/Users/lempe/Desktop/Debian/TP_Algo/CIR2/TP4/cmake-build-debug/CMakeFiles/edit_cache.dir
